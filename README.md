@@ -1,17 +1,17 @@
 
-Hello! I am an Amsterdam-based creative coder who collaborates with artist, designers, musicians and theater makers to build multi-media and computational art works, installations and performances.
+Hello! I am an Amsterdam-based creative coder and developer who collaborates with artist, designers, musicians and theater makers to build multi-media and computational art works, installations and performances.
 
 I am a long-term member of the design collective [ARK](https://ark.amsterdam), where our work [LAWKI](https://lawki.online) has appeared in exhibitions around The Netherlands and in Taiwan, as well as [winning](https://www.filmfestival.nl/en/film/lawki-life-as-we-know-it) the NFF Golden Kalf for Digital Culture Production.
 
-I am the former [coding](https://arranlyon.com/coding) tutor of Year 1 Graphic Design at KABK, The Hague.
+I am the former coding tutor of Year 1 Graphic Design at KABK, The Hague.
 
-My specialties are python, data science, audio/dsp, web front and backend, C++, embedded systems, and getting all of these systems talking to each other.
+My specialties are python, data science, audio/dsp, web front and backend, C++, embedded and real-time systems, and getting all of these things talking to each other.
 
 **I'm currently working on...**
   - [r00ts](https://github.com/al165/r00ts-website) browser [extension](https://github.com/al165/r00ts-extension) that connects you internet usage to the physical datacenters that facilitate it
   - [napPd](https://github.com/al165/napPd) module that wraps PureData in a [NAP Application](https://nap-framework.tech) for depolying patches in installations
   - Muscial compositions with organoids
-  - Intuitive muscial tools beyond the prompt (with the Universtity of Amsterdam and the Conservatory of Amsterdam)
+  - Intuitive musical tools beyond the prompt (with the Universtity of Amsterdam and the Conservatory of Amsterdam)
 
 **I'm currently looking to collaborate on...**
   - Building more audio plugins.
