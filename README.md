@@ -3,6 +3,8 @@ Hello! I am an Amsterdam-based creative coder and developer who collaborates wit
 
 I am a long-term member of the design collective [ARK](https://ark.amsterdam), where our work [LAWKI](https://lawki.online) has appeared in exhibitions around The Netherlands and in Taiwan, as well as [winning](https://www.filmfestival.nl/en/film/lawki-life-as-we-know-it) the NFF Golden Kalf for Digital Culture Production.
 
+Part-time researcher at the University of Amsterdam exploring embodied systems of latent space exploration.
+
 I am the former coding tutor of Year 1 Graphic Design at KABK, The Hague.
 
 My specialties are python, data science, audio/dsp, web front and backend, C++, embedded and real-time systems, and getting all of these things talking to each other.
